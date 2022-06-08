@@ -1,2 +1,3 @@
-# meu-primeiro-reposit-rio-para-o-desafio-dio-git-githud
-meu primeiro desafio git github para o desafio do bootcamp unimed BH dio.me
+# desafio git/github
+### meu primeiro repositório no github
+espero que gostem desse meu primeiro repositório para o curso do bootcamp unimed BH da plataforma da [dio.me](dio.me)
